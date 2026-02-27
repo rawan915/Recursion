@@ -10,10 +10,10 @@ int print(int n) {
 	print(n - 1);
 
 }
-//int main()
-//{
-//	int n;
-//	cin >> n;
-//	print(n);
-//	
-//}
+int main()
+{
+	int n;
+	cin >> n;
+	print(n);
+	
+}
